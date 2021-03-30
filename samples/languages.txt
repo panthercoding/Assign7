@@ -1,0 +1,12 @@
+Pascal
+Delphi
+Python
+SQL
+C
+Java
+C++
+C#
+Ruby
+Swift
+HTML
+Julia
